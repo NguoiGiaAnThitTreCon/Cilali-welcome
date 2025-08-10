@@ -10,7 +10,7 @@ intents.members = True
 
 bot = commands.Bot(command_prefix="!", intents=intents)
 
-GIF_URL = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2luZm9ieTI5YTFhaDE4d3dqdDZpcW1uYWhhN2h6MnFhcHNoM2lqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YZX4FWwOJTK5W/giphy.gif"
+GIF_URL = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndndGNiYnl6bThwcmVzMnRqcHA1OTAyMm1ydnEzc284NDluMG1xMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g5J6pilmOCoSL1nRRk/giphy.gif"
 
 @bot.event
 async def on_ready():
